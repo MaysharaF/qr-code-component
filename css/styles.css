@@ -1,0 +1,13 @@
+:root {
+  --white: #FFFFFF;
+  --light: #D5E1EF;
+  --grayish-blue: #7D889E;
+  --dark-blue: #1F314F;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--light);
+  margin: 0;
+  padding: 0;
+}
