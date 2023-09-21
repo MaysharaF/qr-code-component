@@ -40,7 +40,6 @@ main {
   width: 304px;
   height: 304px;
   border-radius: 10px;
-  font-feature-settings: "clig" off, "liga" off;
 }
 .card-qr-code .title {
   text-align: center;
@@ -49,6 +48,7 @@ main {
   font-weight: 700;
   line-height: normal;
   color: var(--dark-blue);
+  font-feature-settings: "clig" off, "liga" off;
 }
 .card-qr-code .subtitle {
   color: var(--grayish-blue);
@@ -58,4 +58,4 @@ main {
   font-weight: 400;
   line-height: normal;
   letter-spacing: 0.188px;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
